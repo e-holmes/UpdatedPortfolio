@@ -23,14 +23,14 @@ class About extends Component {
 
                             {/* <!-- Row 1 --> */}
                             <div className="row d-flex justify-content-center">
-                                <Apps id="RPS" image={RPS} alt="ROCK-PAPER-SCISSORS Photo" />
-                                <Apps id="WG" image={WG} alt="Word Guess Photo" /> 
+                                <Apps id="RPS" image={RPS} alt="ROCK-PAPER-SCISSORS Photo" title="Rock Paper Scissors"/>
+                                <Apps id="WG" image={WG} alt="Word Guess Photo" title="Harry Potter : Word Guess" /> 
                             </div>
 
                             {/* <!-- Row 2 --> */}
                             <div className="row d-flex justify-content-center">
-                                <Apps id="J" image={J} alt="Jeopardy Photo" />
-                                <Apps id="GT" image={GT} alt="Place Holder Photo" /> 
+                                <Apps id="J" image={J} alt="Jeopardy Photo" title="Jeopardy" />
+                                <Apps id="GT" image={GT} alt="Place Holder Photo" title="Rock Paper Scissors" /> 
                             </div>
                         </article>
                 </section>
