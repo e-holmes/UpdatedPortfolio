@@ -19,7 +19,7 @@ class About extends Component {
                         <p className="para">
                             I am Elizabeth Holmes. I am currently 21 years old and am working as an Operations Assistant at
                             Lindamood-Bell
-                            Learning Processes. My father was a software engineer and so is my boyfriend. I have always had
+                            Learning Processes. My father was a software engineer and I grew up spending every take your child to work day learning basic coding. I have always had
                             a great interest
                             in computers. Most of my middle school career was used learning many different forms of computer
                             arts. In high
