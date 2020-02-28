@@ -25,7 +25,7 @@ class About extends Component {
                             arts. In high
                             school I began learning how to build video games from YouTube videos and discovered my love of
                             coding.<br></br> I decide
-                            to begin making a career out of it in 2018 and took my first official computer science className.
+                            to begin making a career out of it in 2018 and took my first official computer science class.
                             After discovering
                             that I had no financial support to continue attending college I moved back to Washington and
                             began learning coding
@@ -40,7 +40,7 @@ class About extends Component {
                 </section>
             </section>
     
-            <section id="intoButton" className="row d-flex justify-content-center">
+            <section id="intoButton">
                 {/* <!-- Store Buttons --> */}
                 <Buttons></Buttons>
             </section>

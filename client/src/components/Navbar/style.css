@@ -1,3 +1,7 @@
+.navbar{
+  background-color: #47ffca;
+}
+
 .pic1{
   width:100%;
 }
@@ -11,17 +15,29 @@
 }
 
 body{
-  background-color: #c5bad8;
   text-align: center;
+  background-image: url(../../images/prism/prism.png);
 }
 
 a{
-  color: #47ffca;
+  color: #d160a5;
 }
 
 h1{
   color:#d160a5;
-  -webkit-transition-duration: 0.4s; /* Safari */
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+p{
+  color:#d160a5;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+h3{
+  color:#d160a5;
+  -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
 
@@ -35,22 +51,11 @@ h1:hover{
   color:#d160a5;
 }
 
-button{
-  border-radius: 50%;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-}
-
-button:hover{
-  background-color: #8f89af; /* Green */
-  color: #47ffca;
-  border-color:#d160a5;
-}
 
 .pic1{
-  border: 2px solid #d160a5;
+  border: 2px solid #47ffca;
   margin:5%;
-  -webkit-transition-duration: 0.4s; /* Safari */
+  -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
 

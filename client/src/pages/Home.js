@@ -13,7 +13,7 @@ class Home extends Component {
                     <h1 className="col-lg-12 col-md-12 col-sm-12 col-xs-12">What do you want to see first?</h1>
                 </section>
                 
-                <section id="intoButton" className="row d-flex justify-content-center">
+                <section id="intoButton">
                     {/* <!-- Store Buttons --> */}
                     <Buttons></Buttons>
                 </section>

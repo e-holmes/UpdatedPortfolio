@@ -7,7 +7,6 @@ function Buttons() {
         <div>
             <a href="/aboutme"><button className="button">About Me</button></a>
             <a href="/portfolio"><button className="button">Portfolio</button></a>
-            <a href="/contacts"><button className="button">Contacts</button></a>
         </div>
     )
 }
