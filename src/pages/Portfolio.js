@@ -75,7 +75,7 @@ class About extends Component {
                                 image={J}
                                 alt="Jeopardy Photo"
                                 title="Jeopardy"
-                                sum="A jeopardy app that can be used in online classes for students and teachers to simultaneously."
+                                sum="A jeopardy app that can be used in online classes for students and teachers to simultaneously manipulate and view."
                                 repo="https://github.com/e-holmes/jeopardy.git"
                                 dep="https://e-holmes.github.io/jeopardy/"
                             />
