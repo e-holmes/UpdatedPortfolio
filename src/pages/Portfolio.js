@@ -43,7 +43,7 @@ class About extends Component {
                                 title="Spotifind Me"
                                 sum="An app to help you expand your musical tastes."
                                 repo="https://github.com/e-holmes/Spotifind-Me.git"
-                                dep=""
+                                dep=" https://immense-caverns-47364.herokuapp.com/"
                             />
                         </div>
                         {/* Row 2 */}
@@ -54,8 +54,8 @@ class About extends Component {
                                 alt="Cheap Cheep Photo"
                                 title="Cheap Cheep"
                                 sum="An app to help make online shopping easier."
-                                repo="https://limitless-depths-91026.herokuapp.com/"
-                                dep="https://github.com/rayhe921/Cheap-Cheep.git"
+                                repo="https://github.com/rayhe921/Cheap-Cheep.git"
+                                dep="https://limitless-depths-91026.herokuapp.com/"
                             />
                             <Apps
                                 id="CG"
